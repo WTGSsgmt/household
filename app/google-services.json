@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "437006546153",
+    "firebase_url": "https://householdaccounts-2ae7e.firebaseio.com",
+    "project_id": "householdaccounts-2ae7e",
+    "storage_bucket": "householdaccounts-2ae7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437006546153:android:12cbb86d92f7bb8c",
+        "android_client_info": {
+          "package_name": "com.household_accounts.ks.householdaccounts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437006546153-4a404m929oefba3gl19gch9sjum8li56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.household_accounts.ks.householdaccounts",
+            "certificate_hash": "7f50a5e22a853332578c89127e4bd2aea44af17c"
+          }
+        },
+        {
+          "client_id": "437006546153-nm9sfel9eh4gl1thvpil8apqcfhuf7dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKXuC3dD9IyYZLmLeo1DkoZ23S5IA1esk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437006546153-nm9sfel9eh4gl1thvpil8apqcfhuf7dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

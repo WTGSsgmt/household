@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">私の家計簿</string>
+    <string name="edit_message" translatable="false">Enter a message</string>
+    <string name="button_send" translatable="false">Send</string>
+    <string name="title_activity_mypage">MypageActivity</string>
+    <string name="title_home">Home</string>
+    <string name="mypage_title_">こんにちは！</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="resources_mypage"></string>
+</resources>
